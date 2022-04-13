@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="profile">Profile</string>
+    <string name="image">image</string>
+    <string name="my_location">My location</string>
+    <string name="vorontsova_polina">Vorontsova Polina</string>
+    <string name="mail">polina.vorontsova.23@mail.ru</string>
+
+    <string name="about_developer">About developer</string>
+    <string name="group">951005</string>
+    <string name="about">About</string>
+    <string name="currency">Currency</string>
+    <string name="buy">Buy</string>
+    <string name="sell">Sell</string>
+    <string name="usd">USD</string>
+    <string name="euro">EURO</string>
+    <string name="rub">RUB 100</string>
+    <string name="update">Update</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="favorite">Favorite</string>
+    <string name="in_stock">in stock</string>
+    <string name="internet_error">Internet error. Press to reconnect</string>
+    <string name="api_error">Api error. Press to reconnect</string>
+    <string name="without_favorite">You don\'t have favorite items</string>
+    <string name="search">Search</string>
+    <string name="search_text">search text</string>
+    <string name="category">Category</string>
+    <string name="price">Price</string>
+    <string name="from">from</string>
+    <string name="to">to</string>
+    <string name="is_in_stock">Is in stock</string>
+    <string name="clear_filter">Clear filter</string>
+    <string name="delete">Delete</string>
+    <string name="open_in_web">Open in web</string>
+</resources>
