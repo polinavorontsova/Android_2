@@ -13,12 +13,4 @@ class ResourcesProvider @Inject constructor(
     fun getDrawable(drawableResId: Int): Drawable? {
         return AppCompatResources.getDrawable(context, drawableResId)
     }
-
-    fun getString(stringResId: Int): String {
-        return context.getString(stringResId)
-    }
-
-    fun getString(stringResId: Int, vararg params: Any): String {
-        return context.getString(stringResId, *params)
-    }
 }

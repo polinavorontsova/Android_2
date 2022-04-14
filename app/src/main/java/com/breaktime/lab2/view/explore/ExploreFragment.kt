@@ -114,12 +114,6 @@ class ExploreFragment : Fragment() {
         }
     }
 
-    private fun showApiProblem() {
-        binding.noApi.visibility = View.VISIBLE
-        binding.list.visibility = View.GONE
-        binding.noConnection.visibility = View.GONE
-    }
-
     private fun isInternetAvailable(): Boolean {
         val connectivityManager =
             requireContext().getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager
